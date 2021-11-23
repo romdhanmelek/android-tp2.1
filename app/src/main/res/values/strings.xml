@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloToast_Challenge_tp2.1</string>
+    <string name="say_hello" />
+    <string name="button_label_count" />
+    <string name="count_iniale_value" />
+    <string name="count">Count</string>
+    <string name="say_hello1">Say Hello</string>
+</resources>
